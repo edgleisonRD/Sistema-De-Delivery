@@ -34,10 +34,10 @@ O projeto segue separação em camadas:
 
 src/main/java
 │
-├── model        → Entidades do sistema
-├── dao          → Camada de persistência (CRUD)
-├── service      → Regras de negócio (em evolução)
-└── db           → Conexão com banco de dados
+├──model → Entidades do sistema
+├──dao → Camada de persistência (CRUD)
+├──service → Regras de negócio (em evolução)
+└──db → Conexão com banco de dados
 
 🗄️ Modelo de Dados
 📌 Entidades principais
